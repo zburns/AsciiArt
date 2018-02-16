@@ -1,3 +1,3 @@
 # AsciiArt
 
-![alt text](https://github.com/zburns/AsciiArt/edit/master/README.jpg " ")
+![alt text](https://github.com/zburns/AsciiArt/edit/master/README.png " ")
