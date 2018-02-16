@@ -1,0 +1,5 @@
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\bin\Debug\AsciiArt.dll
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\bin\Debug\AsciiArt.pdb
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\obj\Debug\AsciiArt.dll
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\obj\Debug\AsciiArt.pdb
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csprojResolveAssemblyReference.cache
